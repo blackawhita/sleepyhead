@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Who am I
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Hi I am Abhishek and this is going to be where I put my thoughts in. I hope you really like this page and give it your warmth.
