@@ -25,6 +25,7 @@ I have been watching [[Youtube]] since my school days so it leaves a major impac
 
 - 
 - 
+![[photo]]
 
 
 
