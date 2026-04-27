@@ -1,13 +1,13 @@
-# Jotter
+# Tokyo Night
 
-- Theme: Jotter
-- Author: <a href="https://github.com/lnbgc" target="_blank" rel="noopener noreferrer">lnbgc</a>
+- Theme: Tokyo Night
+- Author: tcmmichaelb139
 
 ## Preview
 
-[Open live preview (Quartz)](https://quartz-themes.github.io/jotter/)
+[Open live preview (Quartz)](https://quartz-themes.github.io/tokyo-night/)
 
-[Open live preview (Publish)](https://publish.saberzero.one/jotter)
+[Open live preview (Publish)](https://publish.saberzero.one/tokyo-night)
 
 ## Usage (Quartz)
 
@@ -15,7 +15,7 @@
 
 ```yaml
 env:
-  THEME_NAME: jotter
+  THEME_NAME: tokyo-night
 ```
 
 ```yaml
@@ -28,7 +28,7 @@ env:
 ```bash
 curl -s -S -o action.sh https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh
 
-./action.sh jotter
+./action.sh tokyo-night
 ```
 
 ### Manual install
