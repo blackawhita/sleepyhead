@@ -1,13 +1,13 @@
-# Agora
+# Kanagawa
 
-- Theme: Agora
-- Author: No author provided
+- Theme: Kanagawa
+- Author: <a href="https://ssp.sh" target="_blank" rel="noopener noreferrer">Simon Späti</a>
 
 ## Preview
 
-[Open live preview (Quartz)](https://quartz-themes.github.io/agora/)
+[Open live preview (Quartz)](https://quartz-themes.github.io/kanagawa/)
 
-[Open live preview (Publish)](https://publish.saberzero.one/agora)
+[Open live preview (Publish)](https://publish.saberzero.one/kanagawa)
 
 ## Usage (Quartz)
 
@@ -15,7 +15,7 @@
 
 ```yaml
 env:
-  THEME_NAME: agora
+  THEME_NAME: kanagawa
 ```
 
 ```yaml
@@ -28,7 +28,7 @@ env:
 ```bash
 curl -s -S -o action.sh https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh
 
-./action.sh agora
+./action.sh kanagawa
 ```
 
 ### Manual install
