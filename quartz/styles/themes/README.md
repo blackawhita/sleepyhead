@@ -1,13 +1,13 @@
-# Azure
+# Zario
 
-- Theme: Azure
-- Author: <a href="https://github.com/annagracedev/" target="_blank" rel="noopener noreferrer">Anna Grace</a>
+- Theme: Zario
+- Author: <a href="https://gneiss.dev" target="_blank" rel="noopener noreferrer">Ricardo Nazario</a>
 
 ## Preview
 
-[Open live preview (Quartz)](https://quartz-themes.github.io/azure/)
+[Open live preview (Quartz)](https://quartz-themes.github.io/zario/)
 
-[Open live preview (Publish)](https://publish.saberzero.one/azure)
+[Open live preview (Publish)](https://publish.saberzero.one/zario)
 
 ## Usage (Quartz)
 
@@ -15,7 +15,7 @@
 
 ```yaml
 env:
-  THEME_NAME: azure
+  THEME_NAME: zario
 ```
 
 ```yaml
@@ -28,7 +28,7 @@ env:
 ```bash
 curl -s -S -o action.sh https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh
 
-./action.sh azure
+./action.sh zario
 ```
 
 ### Manual install
