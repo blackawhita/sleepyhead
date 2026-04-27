@@ -1,13 +1,13 @@
-# Obsidian gruvbox
+# Azure
 
-- Theme: Obsidian gruvbox
-- Author: <a href="https://insanum.com" target="_blank" rel="noopener noreferrer">insanum</a>
+- Theme: Azure
+- Author: <a href="https://github.com/annagracedev/" target="_blank" rel="noopener noreferrer">Anna Grace</a>
 
 ## Preview
 
-[Open live preview (Quartz)](https://quartz-themes.github.io/obsidian-gruvbox/)
+[Open live preview (Quartz)](https://quartz-themes.github.io/azure/)
 
-[Open live preview (Publish)](https://publish.saberzero.one/obsidian-gruvbox)
+[Open live preview (Publish)](https://publish.saberzero.one/azure)
 
 ## Usage (Quartz)
 
@@ -15,7 +15,7 @@
 
 ```yaml
 env:
-  THEME_NAME: obsidian-gruvbox
+  THEME_NAME: azure
 ```
 
 ```yaml
@@ -28,7 +28,7 @@ env:
 ```bash
 curl -s -S -o action.sh https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh
 
-./action.sh obsidian-gruvbox
+./action.sh azure
 ```
 
 ### Manual install
