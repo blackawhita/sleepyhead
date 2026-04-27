@@ -1,13 +1,13 @@
-# Tokyo Night
+# GitHub Theme
 
-- Theme: Tokyo Night
-- Author: tcmmichaelb139
+- Theme: GitHub Theme
+- Author: <a href="https://github.com/krios2146" target="_blank" rel="noopener noreferrer">@krios2146</a>
 
 ## Preview
 
-[Open live preview (Quartz)](https://quartz-themes.github.io/tokyo-night/)
+[Open live preview (Quartz)](https://quartz-themes.github.io/github-theme/)
 
-[Open live preview (Publish)](https://publish.saberzero.one/tokyo-night)
+[Open live preview (Publish)](https://publish.saberzero.one/github-theme)
 
 ## Usage (Quartz)
 
@@ -15,7 +15,7 @@
 
 ```yaml
 env:
-  THEME_NAME: tokyo-night
+  THEME_NAME: github-theme
 ```
 
 ```yaml
@@ -28,7 +28,7 @@ env:
 ```bash
 curl -s -S -o action.sh https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh
 
-./action.sh tokyo-night
+./action.sh github-theme
 ```
 
 ### Manual install
