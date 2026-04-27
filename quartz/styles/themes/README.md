@@ -1,13 +1,13 @@
-# Kanagawa
+# Default
 
-- Theme: Kanagawa
-- Author: <a href="https://ssp.sh" target="_blank" rel="noopener noreferrer">Simon Späti</a>
+- Theme: Default
+- Author: <a href="https://obsidian.md" target="_blank" rel="noopener noreferrer">Obsidian Core Team</a>
 
 ## Preview
 
-[Open live preview (Quartz)](https://quartz-themes.github.io/kanagawa/)
+[Open live preview (Quartz)](https://quartz-themes.github.io/default/)
 
-[Open live preview (Publish)](https://publish.saberzero.one/kanagawa)
+[Open live preview (Publish)](https://publish.saberzero.one/default)
 
 ## Usage (Quartz)
 
@@ -15,7 +15,7 @@
 
 ```yaml
 env:
-  THEME_NAME: kanagawa
+  THEME_NAME: default
 ```
 
 ```yaml
@@ -28,7 +28,7 @@ env:
 ```bash
 curl -s -S -o action.sh https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh
 
-./action.sh kanagawa
+./action.sh default
 ```
 
 ### Manual install
