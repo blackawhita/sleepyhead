@@ -1,7 +1,7 @@
 ---
 title: What am I doing here?
 ---
-Hi, this is BlackaWhita (Abhishek). This blog is a space where I let my thoughts flow freely into the open. I’ve explored many forms of expression, but writing has become one of the most meaningful - not just as a way to share, but as a way to truly understand myself.
+Hi, this is **BlackaWhita** (Abhishek). This blog is a space where I let my thoughts flow freely into the open. I’ve explored many forms of expression, but writing has become one of the most powerful ways, not just to share, but as a way to truly understand myself.
 
 I hope that as you read, you gain a glimpse into my perspective. More importantly, I hope this inspires you to embrace writing as a tool in your own life as i believe that one of the best ways to understand yourself is simply to put your thoughts into words.
 
