@@ -1,13 +1,13 @@
-# Zario
+# Jotter
 
-- Theme: Zario
-- Author: <a href="https://gneiss.dev" target="_blank" rel="noopener noreferrer">Ricardo Nazario</a>
+- Theme: Jotter
+- Author: <a href="https://github.com/lnbgc" target="_blank" rel="noopener noreferrer">lnbgc</a>
 
 ## Preview
 
-[Open live preview (Quartz)](https://quartz-themes.github.io/zario/)
+[Open live preview (Quartz)](https://quartz-themes.github.io/jotter/)
 
-[Open live preview (Publish)](https://publish.saberzero.one/zario)
+[Open live preview (Publish)](https://publish.saberzero.one/jotter)
 
 ## Usage (Quartz)
 
@@ -15,7 +15,7 @@
 
 ```yaml
 env:
-  THEME_NAME: zario
+  THEME_NAME: jotter
 ```
 
 ```yaml
@@ -28,7 +28,7 @@ env:
 ```bash
 curl -s -S -o action.sh https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh
 
-./action.sh zario
+./action.sh jotter
 ```
 
 ### Manual install
