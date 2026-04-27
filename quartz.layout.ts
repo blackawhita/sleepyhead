@@ -22,12 +22,13 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug !== "index",
     }),
    // Component.ArticleTitle(),
-    Component.ContentMeta(),
+   // Component.ContentMeta(),
+
     Component.TagList(),
   ],
   left: [
     Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
+    // Component.MobileOnly(Component.Spacer()),
     Component.Flex({
       components: [
         {
@@ -35,7 +36,7 @@ export const defaultContentPageLayout: PageLayout = {
           grow: true,
         },
         { Component: Component.Darkmode() },
-        { Component: Component.ReaderMode() },
+       // { Component: Component.ReaderMode() },
       ],
     }),
     Component.Explorer(),
