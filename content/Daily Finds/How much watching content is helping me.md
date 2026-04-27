@@ -1,5 +1,5 @@
 
-I often get confused and found dissatisfied after a session of phone usage. I usually watch [[Youtube]] and [[Instagram]] to pass down my time but the content I consume mostly is something I find leaves me entertained but after then a weird feeling arrives.sa
+I often get confused and found dissatisfied after a session of phone usage. I usually watch [[Youtube]] and [[Instagram]] to pass down my time but the content I consume mostly is something I find leaves me entertained but after then a weird feeling arrives.saas
 ## What I usually watch
 
 I have been watching [[Youtube]] since my school days so it leaves a major impact in my growing up, from watching Tech related stuff to [[Pewdiepie]], it gave me a perspective which got absorbed and shaped my character. But I often feel that most of time I spent over there gave me hollow experiences. 
